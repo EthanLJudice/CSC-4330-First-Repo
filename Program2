@@ -1,0 +1,24 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package program2;
+
+/**
+ *
+ * @author Ethan
+ */
+public class Program2 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        
+        int first = 10;
+        int second = 20;
+        int difference = second - first;
+        System.out.println(second + " - " + first + " = "  + difference);
+    }
+    
+}
